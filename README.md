@@ -89,4 +89,4 @@ rich                               # affichage CLI élégant
         5.LANCEMENT DU TEST
             (llama_env) PS C:\Users\smart\Desktop\UIR\STAGE\chatbot_classification> streamlit run .\src\dashboard\app.py
 
-
+IMPORTANT !! : IL FAUT IMPORTER LES DONNES (FICHIER ./data) DANS LES BASES DE DONNEES (POSTGRES:DONNEES STRUCTURES / MONGODB:DONNEES NON STRUCTURES) 
